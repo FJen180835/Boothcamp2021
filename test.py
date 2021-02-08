@@ -1,3 +1,2 @@
-import sys
-print(sys.version)
-print('Hello world')
+name = input('Please Enter Yuur Name:')
+print('Hello',name)
